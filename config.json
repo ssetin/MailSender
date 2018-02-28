@@ -1,0 +1,7 @@
+{
+	"ConnectionString": "commlinks=tcpip;uid=dba;pwd=SQL;ServerName=server;DatabaseName=database",
+	"DBDriverName": "sqlany",
+	"LogFile": "logme.log",
+	"SMTPParams": { "Host": "mail.spb.avantel.ru", "Port": 25},
+	"DistributeParams": {"LocalDomain":"@domain.com", "LocalInterval": 30,"LocalCount": 5, "OuterInterval": 60,"OuterCount": 5 }
+}
