@@ -6,5 +6,4 @@
   LETTER_TO_SEND in your database. Mailsender checks for new messages every specified period of time and send them by small portions.
 
 */
-
 package main
