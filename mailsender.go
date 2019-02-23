@@ -1,3 +1,4 @@
+// test comment2
 package main
 
 import "fmt"
